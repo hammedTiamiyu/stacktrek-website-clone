@@ -1,6 +1,6 @@
-# Winery Clone Application
+# React github users pagination
 
-Welcome to the Winery Clone Application! This project is a ReactJS application built with Vite, designed to mimic the functionality and design of a winery website. If you're looking to create a beautiful and user-friendly winery website, you're in the right place.
+This app provides you a simple interface to list and view github users.
 
 ## Features
 
@@ -45,21 +45,16 @@ Make sure you have the following tools installed:
    npm run dev
    ```
 
-2. Start building your winery website by modifying the components and content in the `src` directory.
 
 ### Deployment
 
-When you're ready to deploy your winery website, you can use the following command to build a production-ready version of your application:
+Use the following command to build a production-ready version of your application:
 
 ```shell
 npm run build
 ```
 
 This will generate an optimized build in the `dist` directory that you can deploy to your hosting provider of choice.
-
-## Customize
-
-Feel free to customize this application to fit the specific needs and branding of your winery. You can easily modify the styles, content, and functionality by editing the React components in the `src` directory.
 
 ## Contributing
 
