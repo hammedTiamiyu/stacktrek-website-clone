@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
-import { useFetch } from './useFetch'
-import Follower from './Follower'
+import { useFetch } from './components/useFetch'
+import Follower from './components/Follower'
 // The are two paginaton methods: 1. client side & 2. server side pagination
 function App() {
   const {loading, data} = useFetch()
